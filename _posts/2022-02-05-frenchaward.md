@@ -1,13 +1,11 @@
 ---
 title: "An Open Source Software Award for scikit-learn"
-date: January 8, 2022
+date: February 7, 2022
 categories:
-  - Events
+  - Press
 tags:
   - Open Source
-  - Award
   - Community
-  - French government
 featured-image: Frenchaward.png
 
 postauthors:
@@ -21,12 +19,12 @@ postauthors:
   {% include postauthor.html %}
 </div>
 
-We are pleased to announce that scikit-learn has received a prize for open-source scientific software from the French government. It is great recognition for all the community of contributors and users of a project born in France. Congratulation to the worldwide community for this great achievement!
+We are pleased to announce that scikit-learn has received a prize for open-source scientific software from the French government. It is great recognition for all the community of contributors and users of a project born in France. Congratulations to the worldwide community for this great achievement!
 
 __A Community Award__ 
 scikit-learn was awarded for its very active community with more than 500,000 users per month and 2,200 contributors. Scikit-learn prides itself on being able to showcase its best practices for community building, an essential element of successful open-source software and open science innovation. Congratulations to all the projects and the teams that received the open-source software and open science award today. This work is inspiring for all of us!
 
-__The reaction of the Community__
+__The Reaction of the Community__
 
 >“I literally owe my career in the data space to scikit-learn. It’s not just a framework but a school of thought regarding predictive modeling. Super well deserved, folks :) “ 
 Maykon Schots from Brasil
@@ -45,6 +43,6 @@ The awards came in three categories, which recognized:
 - The scientific and technical quality of the software
 - Building an active community of contributors and users
 - The essential effort to provide documentation that facilitates the use and appropriation of the software
-See the whole list of award recipients:
+See the whole list of award recipients. This article is available in both French and English.
 
 <span style="background-color: #CAE9F5;">  [The official list of award winners](https://www.ouvrirlascience.fr/remise-des-prix-science-ouverte-du-logiciel-libre-de-la-recherche/) </span>

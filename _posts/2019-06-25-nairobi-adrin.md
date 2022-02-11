@@ -1,5 +1,5 @@
 ---
-title: " scikit-learn sprint at Nairobi, Kenya"
+title: " scikit-learn Sprint in Nairobi, Kenya"
 date: June 25, 2019
 
 categories:
@@ -16,7 +16,7 @@ postauthors:
     image: adrin-jalali.jpeg
 ---
 <div>
-  <img src="/blog/assets/images/posts_images/{{ page.featured-image }}" alt="">
+  <img src="/assets/images/posts_images/{{ page.featured-image }}" alt="">
   {% include postauthor.html %}
 </div>
 
